@@ -4,7 +4,8 @@ I love MANGO🥭🥭
 ### About Me
 - Blog: https://jo-myounghee.github.io/
 
-https://github-readme-stats.vercel.app/api?username=Jo-Myounghee
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jo-Myounghee)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **Jo-Myounghee/Jo-Myounghee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
