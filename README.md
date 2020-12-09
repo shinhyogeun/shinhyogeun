@@ -18,9 +18,9 @@ https://github.com/Jo-Myounghee/hit-counter
 
 -->
 
-[![Gmail Badge](README.assets/Gmail-D14836)](mailto:jomyounghee32@gmail.com)
+[![Gmail Badge](README.assets/gmail)](mailto:jomyounghee32@gmail.com)
 
-[![Facebook Badge](README.assets/facebook-1877F2)](https://www.facebook.com/mh10301/)
+[![Facebook Badge](README.assets/facebook)](https://www.facebook.com/mh10301/)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jo-Myounghee&show_icons=true&theme=flag-india&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
