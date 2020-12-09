@@ -11,21 +11,6 @@ https://github.com/Jo-Myounghee/hit-counter
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Jo-Myounghee/hit-counter&count_bg=%23FFB100&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<!--
-
-```
-[![Facebook Badge](https://img.shiels.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/mh10301/)(README.assets/facebook)](https://www.facebook.com/mh10301/)
-[![Gmail Badge](README.assets/Gmail-D14836)](mailto:jomyounghee32@gmail.com)
-```
-
--->
-
-[![Facebook Badge](https://img.shiels.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/mh10301/)(README.assets/facebook)](https://www.facebook.com/mh10301/)
-
-[![Gmail Badge](README.assets/gmail)](mailto:jomyounghee32@gmail.com)
-
-[![Facebook Badge](README.assets/facebook)](https://www.facebook.com/mh10301/)
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jo-Myounghee&show_icons=true&theme=flag-india&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
