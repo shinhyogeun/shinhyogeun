@@ -2,7 +2,7 @@
 
 <hr>
 
-My name is Jo Myounghee and I'm currently learning in SSAFY. I love MANGO🥭🥭
+My name is Jo Myounghee. I love MANGO🥭🥭
 
 ### About Me
 - Blog: https://jo-myounghee.github.io/
@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jo-Myounghee&layout=compact)](https://github.com/Jo-Myounghee/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jo-Myounghee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
