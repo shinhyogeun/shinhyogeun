@@ -7,8 +7,6 @@ My name is Jo Myounghee. I love MANGO🥭🥭
 ### About Me
 - Blog: https://jo-myounghee.github.io/
 
-https://github.com/Jo-Myounghee/hit-counter
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Jo-Myounghee/hit-counter&count_bg=%23FFB100&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jo-Myounghee&show_icons=true&theme=flag-india&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
