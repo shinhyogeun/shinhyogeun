@@ -13,10 +13,14 @@ https://github.com/Jo-Myounghee/hit-counter
 
 <!--
 
+```
+[![Facebook Badge](https://img.shiels.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/mh10301/)(README.assets/facebook)](https://www.facebook.com/mh10301/)
 [![Gmail Badge](README.assets/Gmail-D14836)](mailto:jomyounghee32@gmail.com)
-[![Facebook Badge](README.assets/facebook-1877F2)](https://www.facebook.com/mh10301/)
+```
 
 -->
+
+[![Facebook Badge](https://img.shiels.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/mh10301/)(README.assets/facebook)](https://www.facebook.com/mh10301/)
 
 [![Gmail Badge](README.assets/gmail)](mailto:jomyounghee32@gmail.com)
 
@@ -40,4 +44,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jo-Myounghee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+-->
