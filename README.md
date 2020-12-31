@@ -1,15 +1,12 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Myoung!
+### <!-- Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Myoung! -->
 
-<hr>
+### <!-- About Me -->
 
-My name is Jo Myounghee. I love MANGO🥭🥭
-
-### About Me
-- Blog: https://jo-myounghee.github.io/
+<!--Blog: https://jo-myounghee.github.io/ -->
 
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jo-Myounghee&show_icons=true&theme=flag-india&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
@@ -47,7 +44,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
-
   <br>
   <!--<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp -->
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
@@ -60,10 +56,25 @@ Here are some ideas to get you started:
 <br><br>
 <h3 align="center"> 🍒 Me 🍒 </h3>
 <p align="center">
-  <a href=""><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://github.com/Jo-Myounghee"/></a>&nbsp
+  <a href="https://jo-myounghee.github.io/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://jo-myounghee.github.io/"/></a>&nbsp
   <a href="https://www.instagram.com/myoung__xd/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/myoung__xd/"/></a>&nbsp
   <a href="mailto:jomyounghee32@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jomyounghee32@gmail.com"/></a>
 </p>
+
 <br>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Jo-Myounghee/hit-counter&count_bg=%23FFB100&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<p align="center">
+    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Jo-Myounghee/hit-counter&count_bg=%23FFB100&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</p>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Jo-Myounghee&show_icons=true&theme=flag-india&count_private=true"/></a>
+</p>
+
+​    
+
+<!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Jo-Myounghee/hit-counter&count_bg=%23FFB100&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)-->
+
+</p>
+
+<!--[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jo-Myounghee&show_icons=true&theme=flag-india&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
