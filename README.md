@@ -1,39 +1,8 @@
-### <!-- Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Myoung! -->
-
-### <!-- About Me -->
-
-<!--Blog: https://jo-myounghee.github.io/ -->
+<p>
+    <img src="https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=300&section=header&text=Myounghee%20Jo&fontSize=90" />
+</p>
 
 
-
-
-
-
-
-<!--
-**Jo-Myounghee/Jo-Myounghee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!--
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jo-Myounghee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
--->
-
-
-
-![header](README.assets/api)
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
@@ -52,8 +21,8 @@ Here are some ideas to get you started:
   <!--<img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp -->
   <!--<img src="https://img.shields.io/badge/elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/></a>&nbsp -->
 </p>
-
 <br><br>
+
 <h3 align="center"> 🍒 Me 🍒 </h3>
 <p align="center">
   <a href="https://jo-myounghee.github.io/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://jo-myounghee.github.io/"/></a>&nbsp
@@ -71,10 +40,4 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api?username=Jo-Myounghee&show_icons=true&theme=flag-india&count_private=true"/></a>
 </p>
 
-​    
 
-<!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Jo-Myounghee/hit-counter&count_bg=%23FFB100&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)-->
-
-</p>
-
-<!--[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jo-Myounghee&show_icons=true&theme=flag-india&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
