@@ -28,12 +28,12 @@
   <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/TensorFlow-ff6f00?style=flat-square&logo=tensorflow&logoColor=white"/></a>&nbsp
   <br>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon AWS&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/RaspberryPi-C51A4A?style=flat-square&logo=Raspberry Pi&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon%20AWS&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/RaspberryPi-C51A4A?style=flat-square&logo=Raspberry%20Pi&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/></a>&nbsp
   <br>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira software&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira%20software&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Gitlab-FCA121?style=flat-square&logo=Gitlab&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Trello-0079BF?style=flat-square&logo=Trello&logoColor=white"/></a>&nbsp
 </p>
