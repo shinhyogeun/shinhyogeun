@@ -1,6 +1,7 @@
-<p>
+<a href="https://www.notion.so/199eba55aa3e4b1f936f49470f612a93">
     <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&fontColor=black&height=300&section=header&text=Myounghee%20Jo&fontSize=85&animation=twinkling" />
-</p>
+</a>
+
 
 
 
