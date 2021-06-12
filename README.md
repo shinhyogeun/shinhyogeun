@@ -1,5 +1,5 @@
 <a href="https://www.notion.so/3f2a8300f32549ff857cfe5beefabcd9">
-    <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&fontColor=black&height=300&section=header&text=Myounghee%20Jo&fontSize=85&animation=twinkling" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&fontColor=black&height=300&section=header&text=Myounghee%20Jo&fontSize=85&animation=twinkling" />
 </a>
 
 <h3 align="center">
@@ -42,7 +42,7 @@
 
 <br>
 
-<h3 align="center"> 🍒 Me 🍒 </h3>
+<h3 align="center"> 🥭 Me 🥭 </h3>
 <p align="center">
     <!--
   <a href="https://maeng2world.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://maeng2world.tistory.com/"/></a>&nbsp
@@ -51,6 +51,7 @@
   <a href="https://www.instagram.com/myoung__xd/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/myoung__xd/"/></a>&nbsp
   <a href="mailto:jomyounghee32@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jomyounghee32@gmail.com"/></a>
 </p>
+
 <br>
 
 <p align="center">
