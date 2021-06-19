@@ -52,7 +52,7 @@
   <a href="mailto:jomyounghee32@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jomyounghee32@gmail.com"/></a>
 </p>
 <p align="center">
-  <a href="https://solved.ac/uaugml98"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=uaudgml98"/></a>&nbsp
+  <a href="https://solved.ac/profile/uaudgml98"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=uaudgml98"/></a>&nbsp
 </p>
 
 
