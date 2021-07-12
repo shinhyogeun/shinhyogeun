@@ -45,12 +45,12 @@
   <a href="https://maeng2world.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://maeng2world.tistory.com/"/></a>&nbsp
 -->
   <a href="https://maeng2world.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://maeng2world.tistory.com/"/></a>&nbsp
-  <a href="https://www.instagram.com/myoung__xd/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/myoung__xd/"/></a>&nbsp
   <a href="mailto:jomyounghee32@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jomyounghee32@gmail.com"/></a>
 </p>
 <p align="center">
   <a href="https://solved.ac/profile/uaudgml98"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=uaudgml98"/></a>&nbsp
 </p>
+
 
 
 
