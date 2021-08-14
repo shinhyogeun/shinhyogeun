@@ -2,11 +2,6 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&fontColor=black&height=300&section=header&text=Myounghee%20Jo&fontSize=85" />
 </a>
 
-<h3 align="center">
-    <a href="https://www.notion.so/3f2a8300f32549ff857cfe5beefabcd9" style="color: black; text-decoration: none;"> 
-	View Resume
-    </a>
-</h3>
 <br>
 
 
