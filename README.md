@@ -1,5 +1,5 @@
 <a href="https://www.notion.so/3f2a8300f32549ff857cfe5beefabcd9">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&fontColor=black&height=300&section=header&text=Najeong%20Kim&fontSize=85" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&fontColor=black&height=300&section=header&text=shinhyogeun&fontSize=85" />
 </a>
 
 <br>
