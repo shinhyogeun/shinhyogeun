@@ -34,13 +34,13 @@
   
 ## ⚡ Project / Activities
 
-* [Algorithm Study](https://github.com/elrion018/CS_study)(알고리즘 문제해결 학습) : Algorithm learning code using Python
+* [Algorithm Study](https://github.com/shinhyogeun/Py_Algorithm)(알고리즘 문제해결 학습) : Algorithm learning code using Python
 * [My Playlist](https://github.com/shinhyogeun/My-Playlist) : Website You can hear music based on YouTube API
 * [WoowaCourse](https://woowacourse.github.io/) precourse assignment(우아한테크코스 프리코스 과제) : Number Baseball Game Mission, Car Racing Game Mission, Subway Map Mission, Subway optimal route explorer mission 
 * [Naver BoostCamp](https://boostcamp.connect.or.kr/) 웹 풀스택 과정
 
 ## 🏷️ Cards
-
+ <img src="https://github-readme-stats.vercel.app/api?username=shinhyogeun&show_icons=true&theme=flag-india&count_private=true"/></a>
 [![shinhyogeun's solvedac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tls1gy2rms3)](https://solved.ac/profile/tls1gy2rms3)
 
 ## 📫 Contacts
