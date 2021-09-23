@@ -36,6 +36,7 @@
 
 * [Algorithm Study](https://github.com/shinhyogeun/Py_Algorithm)(알고리즘 문제해결 학습) : Algorithm learning code using Python
 * [My Playlist](https://github.com/shinhyogeun/My-Playlist) : Website You can hear music based on YouTube API
+* [CodeSoom](https://www.codesoom.com/)(2021.01 ~ 2021.04): learning TDD and React
 * [WoowaCourse](https://woowacourse.github.io/) (우아한테크코스 프리코스 과제)(2020/11 ~ 2020/12) : Number Baseball Game Mission, Car Racing Game Mission, Subway Map Mission, Subway optimal route explorer mission 
 * [Naver BoostCamp](https://boostcamp.connect.or.kr/) 웹 풀스택 과정(2021/06 ~ 진행중)
 
