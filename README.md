@@ -50,7 +50,7 @@
 |기간|프로젝트명|개인/팀|프로젝트 소개|깃허브 url|배포 url|
 |---|---|---|---|---|---|
 |21.03.22 ~ 21.04.16|MyPlaylist|개인|자신이 원하는 playlist를 만들 수 있는 사이트|<a href="https://github.com/shinhyogeun/My-Playlist">레포지토리</a>|<a href="https://codesoom.github.io/project-react-3-shinhyogeun/">배포링크</a>|
-|21.10.25 ~ 진행 중|Duxcord|팀|화상회의가 가능한 협업 툴|<a href="https://github.com/boostcampwm-2021/web09-Duxcord">레포지토리</a>|<a href="https://duxcord.kro.kr/">배포링크</a>|
+|21.10.25 ~ 21.12.3|Duxcord|팀|화상회의가 가능한 협업 툴|<a href="https://github.com/boostcampwm-2021/web09-Duxcord">레포지토리</a>|<a href="https://duxcord.kro.kr/">배포링크</a>|
 
 <br>
 
