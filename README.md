@@ -39,7 +39,6 @@
 |교육기관명|과정명|기간|교육내용|
 |---|---|---|---|
 |<a href="https://www.woowahan.com/">우아한 형제들</a>|<a href="https://woowacourse.github.io/">우아한 테크코스 프리코스</a>|20.11.24 ~ 20.12.19|1주 단위 자바스크립트 과제 진행|
-|<a href="https://www.codesoom.com/">코드숨</a>|<a href="https://www.codesoom.com/courses/react">소프트웨어 개발의 지혜 <리액트 편> 3기</a>|21.01.18 ~ 21.04.18|React, TDD|
 |<a href="https://www.connect.or.kr/">네이버 커넥트재단</a>|<a href="https://boostcamp.connect.or.kr/program_wm.html">부스트캠프 웹·모바일 6기 챌린지</a>|21.07.19 ~ 21.08.13|자바스크립트, CS 지식, 릴레이 프로젝트|
 |<a href="https://www.connect.or.kr/">네이버 커넥트재단</a>|<a href="https://boostcamp.connect.or.kr/program_wm.html">부스트캠프 웹·모바일 6기 멤버십</a>|21.08.23 ~ 21.12.03|학습 스프린트, 그룹 프로젝트|
 
