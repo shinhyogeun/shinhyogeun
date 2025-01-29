@@ -34,4 +34,4 @@ I also actively contribute to **open-source projects** and enjoy collaborating w
 ## 📜 Blog & Contact  
 
 - **Tech Blog**: [shinhyogeun.tistory.com](https://shinhyogeun.tistory.com/)  
-- **Email**: [tls1gy2rms3@gmail.com](mailto:tls1gy2rms3@gmail.com)  
+- **Email**: [tlsgyrms123@gmail.com](mailto:tlsgyrms123@gmail.com)  
