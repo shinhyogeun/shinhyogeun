@@ -16,8 +16,9 @@ I also actively contribute to **open-source projects** and enjoy collaborating w
 
 ### Frontend  
 - ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)  
+- ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+- ![Module Federation](https://img.shields.io/badge/Module%20Federation-000000?style=flat-square&logo=webpack&logoColor=white)
 - ![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat-square&logo=Zustand&logoColor=white)  
-- ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)  
 
 ### DevOps & Tooling  
 - ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)  
